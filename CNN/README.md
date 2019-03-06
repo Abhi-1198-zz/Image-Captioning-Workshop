@@ -9,8 +9,7 @@
 ## Google's Deep Learning Tutorials 
 
  - [TensorFlow Official Deep Learning Tutorial](https://www.tensorflow.org/versions/master/tutorials/index.html) (http://wiki.jikexueyuan.com/project/tensorflow-zh/).
- - MLP with Dropout [TensorFlow](https://www.tensorflow.org/versions/master/tutorials/mnist/beginners/index.html) (http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html)  [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html#tensorlayer-is-simple) (http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#tensorlayer)
- - Autoencoder [TensorLayer](http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#tensorlayer) (http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#denoising-autoencoder)
+
  - Convolutional Neural Network [TensorFlow](https://www.tensorflow.org/versions/master/tutorials/mnist/pros/index.html) (http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_pros.html)  [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html#convolutional-neural-network-cnn) (http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#convolutional-neural-network)
  
  ## Convolutional Neural Network
