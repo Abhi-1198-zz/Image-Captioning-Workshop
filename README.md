@@ -1,4 +1,6 @@
 # Image-Captioning-Workshop
+*in National Institute of Technology, Kurukshetra*
+
 This Repository contains the resources for the Image Captioning workshop conducted by GAWDS
 ![](poster.png)
 ## Contents:
