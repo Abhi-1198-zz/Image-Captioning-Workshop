@@ -24,3 +24,5 @@ MNIST is a database of handwritten digits, for a quick description of that datas
 
 Official Website: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 
+# Convolutional Neural Network Architectures:
+[http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
